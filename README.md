@@ -12,7 +12,7 @@
 - Aprendiendo y refinando nuevas tecnologías 📚
 - Interesado en nuevas oportunidades y proyectos 🤝🏻
 
-<h3>✨ Tecnologías ✨</h3>
+<h2>✨ Tecnologías ✨</h3>
 <p><img align="center" alt="name" src="src/wave.svg"></p>
 
 
