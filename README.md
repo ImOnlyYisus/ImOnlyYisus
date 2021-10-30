@@ -12,14 +12,8 @@
 - Interesado en nuevas oportunidades y proyectos 🤝🏻
 
 <br>
-<h2>✨ Tecnologías </h3>
 
-<b>LENGUAJES 📝</b>
-| [<img src="src/html.png" alt="html" width="24">](https://developer.mozilla.org/es/docs/Web/HTML)  | [<img src="src/css.png" alt="css" width="24">](https://developer.mozilla.org/es/docs/Web/CSS)  | [<img src="src/php.png" alt="php logo" width="24">](https://www.php.net/manual/es/intro-whatis.php)  |  [<img src="src/java.png" alt="java logo" width="24">](http://www.open-std.org/jtc1/sc22/wg14/) |  [<img src="src/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="src/bash.png" alt="bash logo" width="24">](https://www.gnu.org/software/bash/)  |
-|---|---|---|---|---|---|
-
-
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yisusturtle&show_icons=true&theme=dracula&locale=en" alt="yisusturtle" /></p> |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yisusturtle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yisusturtle" /></p>|
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yisusturtle&show_icons=true&theme=dracula&locale=en" alt="yisusturtle" width="99%" /></p> |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yisusturtle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yisusturtle" width="100%"/></p>|
 |---|---|
 
 <h2>📁 Proyectos </h2>
