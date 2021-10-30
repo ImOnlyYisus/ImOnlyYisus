@@ -3,7 +3,7 @@
          height="45"
          width="45" />, soy Jesus</h1>
 <br/>
-<img align="right" alt="GIF" src="src/monkey.webp" />
+<img align="right" width=250px alt="GIF" src="src/monkey.webp" />
 
 - Admisnistrador de sistemas 👩🏻‍💻
 - Estudiante de desarrollo web 💻 
