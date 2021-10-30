@@ -3,7 +3,7 @@
          height="45"
          width="45" />, soy Jesus</h1>
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" />
+<img align="right" alt="GIF" src="src/monkey.webp" />
 
 - Admisnistrador de sistemas 👩🏻‍💻
 - Estudiante de desarrollo web 💻 
@@ -12,5 +12,5 @@
 
 ---
 
-<p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=yisusturtle&show_icons=true&theme=highcontrast&locale=en" alt="yisusturtle" /><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yisusturtle&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="yisusturtle" /></p>
+<p>&nbsp;<img align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=yisusturtle&show_icons=true&theme=highcontrast&locale=en" alt="yisusturtle" /></p>
 
