@@ -8,7 +8,7 @@
 <br/>
 <img align="right" width=300px alt="GIF" src="src/monkey.webp" />
 
-- Admisnistrador de sistemas 👩🏻‍💻
+- Administrador de sistemas 👩🏻‍💻
 - Estudiante de desarrollo web 💻 
 - Aprendiendo y refinando nuevas tecnologías 📚
 - Interesado en nuevas oportunidades y proyectos 🤝🏻
