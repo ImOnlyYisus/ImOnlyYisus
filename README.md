@@ -18,13 +18,13 @@
 <h2>📁 Proyectos </h2>
 
 <p align="left">
-  <a href="https://github.com/yisusturtle/JAVA_PROJECTS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yisusturtle&repo=java_projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/yisusturtle/DApp-Votaciones"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yisusturtle&repo=dapp-votaciones&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/ImOnlyYisus/JAVA_PROJECTS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ImOnlyYisus&repo=java_projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/ImOnlyYisus/DApp-Votaciones"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ImOnlyYisus&repo=dapp-votaciones&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
 ---
 
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yisusturtle&show_icons=true&theme=dracula&locale=en" alt="yisusturtle" width="99%" /></p> |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yisusturtle&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yisusturtle" width="100%"/></p>|
+| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImOnlyYisus&show_icons=true&theme=dracula&locale=en" alt="ImOnlyYisus" width="99%" /></p> |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImOnlyYisus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ImOnlyYisus" width="100%"/></p>|
 |---|---|
 
 
