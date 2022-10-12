@@ -25,7 +25,8 @@
 ---
 
 <h2>🏅 Holopin Badges </h2>
-[![@imonlyyisus's Holopin board](https://holopin.me/imonlyyisus)](https://holopin.io/@imonlyyisus)
+
+![@imonlyyisus's Holopin board](https://holopin.me/imonlyyisus)
 
 ---
 
