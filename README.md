@@ -24,6 +24,11 @@
 
 ---
 
+<h2>🏅 Holopin Badges </h2>
+[![@imonlyyisus's Holopin board](https://holopin.me/imonlyyisus)](https://holopin.io/@imonlyyisus)
+
+---
+
 | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImOnlyYisus&show_icons=true&theme=dracula&locale=en" alt="ImOnlyYisus" width="99%" /></p> |<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImOnlyYisus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ImOnlyYisus" width="100%"/></p>|
 |---|---|
 
