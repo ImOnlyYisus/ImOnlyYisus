@@ -6,8 +6,7 @@
 <br/>
 <img align="right" width=300px alt="GIF" src="src/monkey.webp" />
 
-- Sysadmin 👩🏻‍💻
-- Web developer student 💻 
+- FullStack Developer 👩🏻‍💻
 - Learning new tecnologies 📚
 - Interested in new opportunities and projects 🤝🏻
 
